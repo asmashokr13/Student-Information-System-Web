@@ -1,0 +1,10 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=.;Database=UniversityAuthDB;Trusted_Connection=True;TrustServerCertificate=True"
+  }
+  {
+    "email": "admin@test.com",
+    "password": "1234"
+  }
+
+}
